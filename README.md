@@ -61,7 +61,7 @@
 <p align="left">
   <a href="https://tryhackme.com/p/yaov"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://app.hackviser.com/profile/yaov"><img src="https://img.shields.io/badge/Hackviser-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/yaovsec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yaovs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
