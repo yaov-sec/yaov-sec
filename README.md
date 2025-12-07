@@ -1,16 +1,95 @@
-## Hi there 👋
+<p align="center">
+  <img src="./gradient-line.gif" width="100%">
+</p>
 
-<!--
-**yaov-sec/yaov-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👨‍💻 Ziya Shalbuzov — <strong>yaov</strong></h1>
+<h3 align="center">Cybersecurity Student • Blue Team • Linux Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./main-github.gif" width="380px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🔐 Cybersecurity & Blue Team student  
+- 🎓 Studying at **Baku State University**  
+- 🛡️ Focus on detection, defense, IR, log analysis  
+- 🐧 Linux user (Mint)  
+- 🧪 I build labs, break things, fix things, repeat  
+- 🚀 Growing skills through practice, challenges and projects  
+
+---
+
+<p align="center">
+  <img src="./coding-cat.gif" width="200px">
+</p>
+
+---
+
+## 🛠️ Skillset (Icons Only)
+
+### 🐧 Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-2E4C6D?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+</p>
+
+---
+
+## 🌐 Profiles
+
+<p align="left">
+  <a href="https://tryhackme.com/p/yaov"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://app.hackviser.com/profile/yaov"><img src="https://img.shields.io/badge/Hackviser-blue?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/yaovsec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaov-sec&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaov-sec&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaov-sec&theme=algolia&no-frame=true&no-bg=true&row=1&column=7">
+</p>
+
+---
+
+## 🎯 2025 Goals
+- Build a full homelab  
+- Publish cybersecurity projects  
+- Improve automation with Python & Bash  
+- Advance Blue Team skills  
+- Earn more TryHackMe badges  
+
+---
+
+<p align="center">
+  <img src="./gradient-line.gif" width="100%">
+</p>
+
+<h3 align="center">✨ “Hack the skills. Secure the future.” ✨</h3>
