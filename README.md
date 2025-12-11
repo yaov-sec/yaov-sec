@@ -2,7 +2,7 @@
   <img src="./gradient-line.gif" width="100%">
 </p>
 
-<h1 align="center">👨‍💻 Ziya Shalbuzov — <strong>yaov</strong></h1>
+<h1 align="center">👨‍💻 Ziya Shalbuzov — <strong>yaovs</strong></h1>
 <h3 align="center">Cybersecurity Student • Blue Team • Linux Enthusiast</h3>
 
 <p align="center">
