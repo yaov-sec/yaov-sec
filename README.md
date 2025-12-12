@@ -9,6 +9,10 @@
   <img src="./hello-world.gif" width="260px">
 </p>
 
+<p align="center">
+  <img src="./main-github.gif" width="260px">
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -50,6 +54,7 @@
 
 ## 🌐 Profiles & Socials  
 <p align="center">
+  <a href="https://github.com/yaovs"><img src="./github-icon.gif" width="75px"></a>
   <a href="https://instagram.com/shalbuzov_ziya"><img src="./instagram.gif" width="75px"></a>
   <a href="https://www.linkedin.com/in/yaovs/"><img src="./linkedin.gif" width="75px"></a>
   <a href="https://x.com/shalbuzov_ziya"><img src="./twitter.gif" width="75px"></a>
