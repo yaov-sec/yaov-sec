@@ -40,7 +40,6 @@
 ### 🛡 Blue Team / DFIR / Analysis
 <p align="left">
   <img src="./logos/wireshark.png" width="55px" title="Wireshark">
-  <img src="./logos/sysmon.png" width="55px" title="Sysmon">
   <img src="./logos/elastic.png" width="55px" title="ELK / Opensearch">
   <img src="./logos/velociraptor.png" width="55px" title="Velociraptor">
   <img src="./logos/cyberchef.png" width="55px" title="CyberChef">
