@@ -13,12 +13,6 @@
 
 ## ⚡ About Me
 
-> initializing yaovs...  
-> loading analyst profile...  
-> environment: Linux Mint  
-> role: Blue Team / DFIR / SOC  
-> status: active  
-
 - 🎓 CS Student @ **Baku State University**  
 - 🔐 Cybersecurity Student @ **TETYM**  
 - 🕵️ DFIR • Threat Detection • Log Analysis • Forensics  
