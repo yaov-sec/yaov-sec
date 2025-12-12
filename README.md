@@ -72,6 +72,7 @@
 
 ## 🌐 Profiles & Socials  
 <p align="center">
+  <img src="https://via.placeholder.com/75/00000000/00000000" width="75px">
   <a href="https://github.com/yaovs"><img src="./github-icon.gif" width="75px"></a>
   <a href="https://instagram.com/shalbuzov_ziya"><img src="./instagram.gif" width="75px"></a>
   <a href="https://www.linkedin.com/in/yaovs/"><img src="./linkedin.gif" width="75px"></a>
