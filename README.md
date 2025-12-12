@@ -11,20 +11,18 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔐 Cybersecurity & Computer Science  
-- 🎓 Studying at **Baku State University**  
-- 🛡️ Focus on detection, defense, IR, log analysis  
-- 🐧 Linux user (Mint)  
-- 🧪 I build labs, break things, fix things, repeat  
-- 🚀 Growing skills through practice, challenges and projects  
-
----
-
-<p align="center">
-  <img src="./coding-cat.gif" width="200px">
+## 🧑‍💻 About Me  
+<p align="right">
+  <img src="./coding-cat.gif" width="170px">
 </p>
+
+- 🔐 Cybersecurity & Computer Science student  
+- 🎓 Studying CS at **Baku State University**  
+- 🛡️ Cybersecurity student at **TETYM**  
+- 🐧 Linux Mint user  
+- 🎯 Blue Team focused — Detection, Defense, IR, Log Analysis  
+- 🧪 I build labs, experiment, break things, fix things, and repeat  
+- 📚 Always learning through challenges, platforms, and real practice  
 
 ---
 
@@ -67,11 +65,11 @@
 ---
 
 ## 🎯 2025 Goals
-- Build a full homelab  
-- Publish cybersecurity projects  
+- Build a complete cybersecurity homelab  
+- Publish practical cybersecurity projects  
 - Improve automation with Python & Bash  
-- Advance Blue Team skills  
-- Earn more TryHackMe badges  
+- Advance Blue Team and SOC analysis skills  
+- Earn more TryHackMe and Hackviser achievements  
 
 ---
 
@@ -80,3 +78,7 @@
 </p>
 
 <h3 align="center">✨ “Hack the skills. Secure the future.” ✨</h3>
+
+<p align="center">
+  <sub>Made with ❤️, Linux, and curiosity</sub>
+</p>
