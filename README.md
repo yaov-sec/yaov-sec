@@ -2,8 +2,8 @@
   <img src="./gradient-line.gif" width="100%">
 </p>
 
-<h1 align="center">🛡️ YAOVS — Ziya Shalbuzov</h1>
-<h3 align="center">Cybersecurity • Blue Team • DFIR • Linux • Automation</h3>
+<h1 align="center">🕵️‍♂️ YAOVS — Ziya Shalbuzov</h1>
+<h3 align="center">Cybersecurity • Blue Team</h3>
 
 <p align="center">
   <img src="./main-github.gif" width="370px">
