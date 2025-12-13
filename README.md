@@ -95,4 +95,11 @@
   <img src="./gradient-line.gif" width="100%">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yaovs/yaovs/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/yaovs/yaovs/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h3 align="center">✨ “Hack the skills. Secure the future.” ✨</h3>
